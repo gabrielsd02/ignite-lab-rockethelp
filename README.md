@@ -12,7 +12,7 @@ Projeto em React Native feito em um evento fornecido pela Rocketseat para a cons
 ## Passo-a-Passo Firebase
 - São necessários os arquivos ` google-services.json ` (Android) e ` GoogleService-Info.plist ` (IOS) na raíz do projeto para o funcionamento do [Native Base](https://github.com/GeekyAnts/nativebase);
 - Os arquivos comentados acima, são gerados no [Console do firebase](console.firebase.google.com), siga a documentação para mais detalhes: [Documentação Firebase](https://rnfirebase.io);
-- Após os arquivos serem ` google-services.json ` e ` GoogleService-Info.plist ` serem inseridos no projeto, insira essas informações em seu ` app.json `:
+- Após os arquivos ` google-services.json ` e ` GoogleService-Info.plist ` serem inseridos no projeto, insira essas informações em seu ` app.json `:
 
     ![Expo Config](https://i.imgur.com/VIUNude.png)
 
