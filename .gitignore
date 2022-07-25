@@ -108,6 +108,9 @@ buck-out/
 # CocoaPods
 /ios/Pods/
 
+google-services.json
+GoogleService-Info.plist
+
 # Expo
 .expo/
 web-build/
