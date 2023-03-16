@@ -1,5 +1,5 @@
 # Ignite Lab Rockethelp
-Projeto em React Native feito em um evento fornecido pela Rocketseat para a construção de um aplicativo
+Projeto em React Native feito em um evento fornecido pela Rocketseat para a construção de um aplicativo, que tem como objetivo levantar solicitações (pedidos) e atendê-los.
 
 ## Principais bibliotecas utilizadas
 - [Native Base](https://github.com/GeekyAnts/nativebase) para a construção de componentes;
